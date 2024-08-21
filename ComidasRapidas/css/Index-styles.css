@@ -1,0 +1,21 @@
+
+.imagen-logo{
+width: 5%;
+margin-top: 10%;
+border-radius: 20px;
+}
+
+.titulo-Menú {
+ font-size:  20px; ;
+line-height: 100px;
+text-align: center;
+font-weight: bold;
+text-shadow: 0 px 12px 12px #333;
+}
+
+.Menú-boton {
+margin-top: 25px;
+}
+.Menú-boton button{
+    font-size: 23px;
+}
